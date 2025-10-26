@@ -1,0 +1,78 @@
+.qw{
+     text-align: center;
+    padding: 10px;
+    background: #1d8251;
+    color: white;
+    border-radius: 30px;
+    }
+.link{
+    text-align: center;
+    }
+.forh2{
+    color: white;
+    background: #1d8251;
+    padding: 5px;
+    border-radius: 30px;
+}
+.put{
+    padding: 15px;
+    border: 2px solid #1d8251;
+    border-radius: 30px;
+    color: black;
+    text-decoration: none;
+}
+.nap{
+    border: 2px solid #1d8251;
+    border-radius: 15px;
+    margin: 15px 0;
+    overflow: hidden;
+    display: inline-block; 
+    width: auto; 
+    padding: 0 2px;
+}
+
+.nap-title{
+ padding: 15px;
+    background: #f0f0f0;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+}
+.card{
+     background: white;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+.card-name{}
+.times-grid{ display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 10px;
+}
+.time{
+    background: #1d8251;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.out{
+    padding: 7px;
+    border: 2px solid #1d8251;
+    border-radius: 30px;
+    color: white;
+    background: #1d8251;
+    text-decoration: none;
+}
+.strong{
+    padding: 5px;
+    border: 2px solid #1d8251;
+    border-radius: 30px;
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+}
